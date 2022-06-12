@@ -1,2 +1,3 @@
 # BearAdventures
  Final project for OOP course done on 06.2021
+ Python game using Pygame module. User controls the bear character with the help of arrow buttons. The goal of the game is to collect as many fruit as possible. The game counts and displays the result. At the beginning of the game character has 4 lives. The game is over when the user has 0 lives. The second character is the opponent.  It is programmed to follow the player and when collusion comes, the player loses a life point. To make the game dynamic, the fruit are placed randomly on the board and the player will be able to collect temporary improvements, such as speeding up the character or slowing down the opponent.
