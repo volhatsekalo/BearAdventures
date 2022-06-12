@@ -1,5 +1,5 @@
 # BearAdventures
- Python game using Pygame module. Final project for OOP course done on 06.2021. Game in a nutshell:
+ Python game using Pygame module. Final project for OOP course done on 06.2021. Description:
  * The User controls the bear character with the help of arrow buttons
  * The goal of the game is to collect as many fruit as possible. Fruit are placed randomly 
  * The game counts and displays the result
